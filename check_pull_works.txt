@@ -1,2 +1,4 @@
 I just want to check how works with intracked files. Now i change this row.
 Now I want change this this locally and make pull from remote repository. --> Already up to date
+
+wegwegw
