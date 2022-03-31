@@ -3,7 +3,3 @@ Now I want change this this locally and make pull from remote repository. --> Al
 
 wegwegw
 TuCAAAAAAAAAAAAAAAAA
-<<<<<<< HEAD
-=======
-lala so vseh vokzalov poezda
->>>>>>> 9c01e83a9deafc8bf18e564a4cb371d49c9c39eb
